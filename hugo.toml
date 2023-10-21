@@ -1,0 +1,8 @@
+baseURL = "https://rednapm.github.io/"
+languageCode = "en-us"
+title = "Ossama's Blog"
+theme = "m10c"
+
+[params]
+  author = "Ossama Sadouki"
+  description = "A blog about all things technical."
